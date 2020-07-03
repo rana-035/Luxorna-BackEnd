@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{52C981A1-FFA4-43C4-B809-5B113D8A4F03}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ITI.Luxorna.Entities</RootNamespace>
+    <AssemblyName>ITI.Luxorna.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNet.WebApi.Core.5.2.7\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNet.WebApi.WebHost.5.2.7\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminRole\AdminRole.cs" />
+    <Compile Include="AdminRole\AdminRoleConfiguration.cs" />
+    <Compile Include="AdminUserModel\AdminUserModel.cs" />
+    <Compile Include="AdminUserModel\AdminUserModelConfiguration.cs" />
+    <Compile Include="Admin\Admin.cs" />
+    <Compile Include="Admin\AdminConfiguration.cs" />
+    <Compile Include="BaseModel\BaseModel.cs" />
+    <Compile Include="BaseModel\BaseModelConfiguration.cs" />
+    <Compile Include="Country\Country.cs" />
+    <Compile Include="Country\CountryConfiguration.cs" />
+    <Compile Include="HotelImage\HotelImage.cs" />
+    <Compile Include="HotelImage\HotelImageConfiguration.cs" />
+    <Compile Include="HotelPackage\HotelPackage.cs" />
+    <Compile Include="HotelPackage\HotelPackageConfiguration.cs" />
+    <Compile Include="Hotel\Hotel.cs" />
+    <Compile Include="Hotel\HotelConfiguration.cs" />
+    <Compile Include="MuseumImage\MuseumImage.cs" />
+    <Compile Include="MuseumImage\MuseumImageConfiguration.cs" />
+    <Compile Include="MuseumPackage\MuseumPacakge.cs" />
+    <Compile Include="MuseumPackage\MuseumPackageConfiguration.cs" />
+    <Compile Include="Museum\Museum.cs" />
+    <Compile Include="Museum\MuseumConfiguration.cs" />
+    <Compile Include="Package\Package.cs" />
+    <Compile Include="Package\PackageConfiguration.cs" />
+    <Compile Include="PlaceModel\PlaceModel.cs" />
+    <Compile Include="PlaceModel\PlaceModelConfiguration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResturantImage\ResturantImage.cs" />
+    <Compile Include="ResturantImage\ResturantImageConfiguration.cs" />
+    <Compile Include="ItemSize\ItemSize.cs" />
+    <Compile Include="ItemSize\ItemSizeConfiguration.cs" />
+    <Compile Include="Item\Item.cs" />
+    <Compile Include="Item\ItemConfiguration.cs" />
+    <Compile Include="PackageItem\PackageItem.cs" />
+    <Compile Include="PackageItem\PackageItemConfiguration.cs" />
+    <Compile Include="ResturantPackage\ResturantPacakge.cs" />
+    <Compile Include="ResturantPackage\ResturantPackageConfiguration.cs" />
+    <Compile Include="Resturant\Resturant.cs" />
+    <Compile Include="Resturant\ResturantConfiguration.cs" />
+    <Compile Include="Role\Role.cs" />
+    <Compile Include="Role\RoleConfiguration.cs" />
+    <Compile Include="Section\Section.cs" />
+    <Compile Include="Section\SectionConfiguration.cs" />
+    <Compile Include="Size\Size.cs" />
+    <Compile Include="Size\SizeConfiguration.cs" />
+    <Compile Include="TempleImage\TempleImage.cs" />
+    <Compile Include="TempleImage\TempleImageConfiguration.cs" />
+    <Compile Include="TemplePackage\TemplePackage.cs" />
+    <Compile Include="TemplePackage\TemplePackageConfiguration.cs" />
+    <Compile Include="Temple\Temple.cs" />
+    <Compile Include="Temple\TempleConfiguration.cs" />
+    <Compile Include="User\User.cs" />
+    <Compile Include="User\UserConfiguration.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6EC19133-16E5-4B82-A5D0-808C838EEDD9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ITI.Luxorna.ViewModels</RootNamespace>
+    <AssemblyName>ITI.Luxorna.ViewModels</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\AdminEditViewModel.cs" />
+    <Compile Include="Admin\AdminExtentions.cs" />
+    <Compile Include="Admin\AdminViewModel.cs" />
+    <Compile Include="Country\CountryEditViewModel.cs" />
+    <Compile Include="Country\CountryExtentions.cs" />
+    <Compile Include="Country\CountryViewModel.cs" />
+    <Compile Include="HotelImage\HotelImageEditViewModel.cs" />
+    <Compile Include="HotelImage\HotelImageExtentions.cs" />
+    <Compile Include="HotelImage\HotelImageViewModel.cs" />
+    <Compile Include="HotelPackage\HotelPackageEditViewModel.cs" />
+    <Compile Include="HotelPackage\HotelPackageExtentions.cs" />
+    <Compile Include="HotelPackage\HotelPackageViewModel.cs" />
+    <Compile Include="Hotel\HotelEditViewModel.cs" />
+    <Compile Include="Hotel\HotelExtentions.cs" />
+    <Compile Include="Hotel\HotelViewModel.cs" />
+    <Compile Include="MuseumImage\MuseumImageEditViewModel.cs" />
+    <Compile Include="MuseumImage\MuseumImageExtentions.cs" />
+    <Compile Include="MuseumImage\MuseumImageViewModel.cs" />
+    <Compile Include="Museum\MuseumEditViewModel.cs" />
+    <Compile Include="Museum\MuseumExtensions.cs" />
+    <Compile Include="Museum\MuseumViewModel.cs" />
+    <Compile Include="MusuemPackage\MuseumPackageEditViewModel.cs" />
+    <Compile Include="MusuemPackage\MuseumPackageExtentions.cs" />
+    <Compile Include="MusuemPackage\MuseumPackageViewModel.cs" />
+    <Compile Include="PackageItem\PackageItemEditViewModel.cs" />
+    <Compile Include="PackageItem\PackageItemExtentions.cs" />
+    <Compile Include="PackageItem\PackageItemViewModel.cs" />
+    <Compile Include="Package\PackageEditViewModel.cs" />
+    <Compile Include="Package\PackageExtentions.cs" />
+    <Compile Include="Package\PackageViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResturantImage\ResturantImageEditViewModel.cs" />
+    <Compile Include="ResturantImage\ResturantImageExtentions.cs" />
+    <Compile Include="ResturantImage\ResturantImageViewModel.cs" />
+    <Compile Include="ItemSize\ItemSizeEditViewModel.cs" />
+    <Compile Include="ItemSize\ItemSizeExtentions.cs" />
+    <Compile Include="ItemSize\ItemSizeViewModel.cs" />
+    <Compile Include="Item\ItemEditViewModel.cs" />
+    <Compile Include="Item\ItemExtentions.cs" />
+    <Compile Include="Item\ItemViewModel.cs" />
+    <Compile Include="ResturantPackage\ResturantPackageEditViewModel.cs" />
+    <Compile Include="ResturantPackage\ResturantPackageExtentions.cs" />
+    <Compile Include="ResturantPackage\ResturantPackageViewModel.cs" />
+    <Compile Include="Resturant\ResturantEditViewModel.cs" />
+    <Compile Include="Resturant\ResturantExtensions.cs" />
+    <Compile Include="Resturant\ResturantViewModel.cs" />
+    <Compile Include="Role\RoleEditViewModel.cs" />
+    <Compile Include="Role\RoleExtentions.cs" />
+    <Compile Include="Role\RoleViewModel.cs" />
+    <Compile Include="Section\SectionEditViewModel.cs" />
+    <Compile Include="Section\SectionExtentions.cs" />
+    <Compile Include="Section\SectionViewModel.cs" />
+    <Compile Include="Shared\PagingViewModel.cs" />
+    <Compile Include="Size\SizeEditViewModel.cs" />
+    <Compile Include="Size\SizeExtentions.cs" />
+    <Compile Include="Size\SizeViewModel.cs" />
+    <Compile Include="TempleImage\TempleImageExtentions.cs" />
+    <Compile Include="TempleImage\TempleImageEditViewModel.cs" />
+    <Compile Include="TempleImage\TempleImageViewModel.cs" />
+    <Compile Include="TemplePackage\TemplePackageEditViewModel.cs" />
+    <Compile Include="TemplePackage\TemplePackageExtentions.cs" />
+    <Compile Include="TemplePackage\TemplePackageViewModel.cs" />
+    <Compile Include="Temple\TempleEditViewModel.cs" />
+    <Compile Include="Temple\TempleExtensions.cs" />
+    <Compile Include="Temple\TempleViewModel.cs" />
+    <Compile Include="User\UserEditViewModel.cs" />
+    <Compile Include="User\UserExtentions.cs" />
+    <Compile Include="User\UserViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ITI.Luxorna.Entities\ITI.Luxorna.Entities.csproj">
+      <Project>{52C981A1-FFA4-43C4-B809-5B113D8A4F03}</Project>
+      <Name>ITI.Luxorna.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

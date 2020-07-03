@@ -1,0 +1,12 @@
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Release\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Release\ITI.Luxorna.ViewModels.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Release\ITI.Luxorna.Entities.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Release\EntityFramework.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Release\ITI.Luxorna.Entities.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Release\ITI.Luxorna.Entities.dll.config
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Release\EntityFramework.xml
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Release\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Release\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Release\ITI.Luxorna.ViewModels.csproj.CopyComplete
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Release\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Release\ITI.Luxorna.ViewModels.pdb

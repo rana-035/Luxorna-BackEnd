@@ -1,0 +1,54 @@
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll.config
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.xml
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CopyComplete
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll.config
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.xml
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CopyComplete
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll.config
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.xml
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CopyComplete
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.ViewModels.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\ITI.Luxorna.Entities.dll.config
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\bin\Debug\EntityFramework.xml
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csprojAssemblyReference.cache
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CoreCompileInputs.cache
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.csproj.CopyComplete
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.ViewModels\obj\Debug\ITI.Luxorna.ViewModels.pdb

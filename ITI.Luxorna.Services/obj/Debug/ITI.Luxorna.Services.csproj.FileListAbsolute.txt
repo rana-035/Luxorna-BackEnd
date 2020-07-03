@@ -1,0 +1,115 @@
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.dll
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.xml
+E:\ITI 3 Month Scholarship\Github Final Project\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.xml
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.xml
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.xml
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.dll
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll.config
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll.config
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.pdb
+D:\iti\Final Project We Rabna Kepeer\FinalProject\luxorna\luxorna\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.xml
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.pdb
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll.config
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.pdb
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll.config
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.xml
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.xml
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.xml
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.xml
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.xml
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.pdb
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.pdb
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll.config
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.pdb
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll.config
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.pdb
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.xml
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.xml
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.xml
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.xml
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.xml
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
+E:\ITI 3 Month Scholarship\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Services.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Entities.dll.config
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.Repositories.dll.config
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\ITI.Luxorna.ViewModels.pdb
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\Newtonsoft.Json.xml
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Net.Http.Formatting.xml
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.xml
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\System.Web.Http.WebHost.xml
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\bin\Debug\EntityFramework.xml
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csprojAssemblyReference.cache
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CoreCompileInputs.cache
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.csproj.CopyComplete
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.dll
+D:\iti\Final Project We Rabna Kepeer\finaaaaaaaaaaaaaaaaaal\Luxorna Project\Luxorna Project\Luxorna\ITI.Luxorna.Services\obj\Debug\ITI.Luxorna.Services.pdb

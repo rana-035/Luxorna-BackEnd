@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.Luxorna.Entities", "ITI.Luxorna.Entities\ITI.Luxorna.Entities.csproj", "{52C981A1-FFA4-43C4-B809-5B113D8A4F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.Luxorna.Repositories", "ITI.Luxorna.Repositories\ITI.Luxorna.Repositories.csproj", "{3BD5AF7A-4F09-43EC-938B-762BDB07F77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.Luxorna.Services", "ITI.Luxorna.Services\ITI.Luxorna.Services.csproj", "{687D4F8A-966A-4EB8-99B8-8BD9335DB60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.Luxorna.ViewModels", "ITI.Luxorna.ViewModels\ITI.Luxorna.ViewModels.csproj", "{6EC19133-16E5-4B82-A5D0-808C838EEDD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITI.Luxorna.UI", "ITI.Luxorna.UI\ITI.Luxorna.UI.csproj", "{9BB72D85-E6EE-4DD1-AE9F-4D32249878BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C981A1-FFA4-43C4-B809-5B113D8A4F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C981A1-FFA4-43C4-B809-5B113D8A4F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C981A1-FFA4-43C4-B809-5B113D8A4F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C981A1-FFA4-43C4-B809-5B113D8A4F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD5AF7A-4F09-43EC-938B-762BDB07F77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD5AF7A-4F09-43EC-938B-762BDB07F77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD5AF7A-4F09-43EC-938B-762BDB07F77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD5AF7A-4F09-43EC-938B-762BDB07F77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687D4F8A-966A-4EB8-99B8-8BD9335DB60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687D4F8A-966A-4EB8-99B8-8BD9335DB60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687D4F8A-966A-4EB8-99B8-8BD9335DB60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687D4F8A-966A-4EB8-99B8-8BD9335DB60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC19133-16E5-4B82-A5D0-808C838EEDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC19133-16E5-4B82-A5D0-808C838EEDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC19133-16E5-4B82-A5D0-808C838EEDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC19133-16E5-4B82-A5D0-808C838EEDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB72D85-E6EE-4DD1-AE9F-4D32249878BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB72D85-E6EE-4DD1-AE9F-4D32249878BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB72D85-E6EE-4DD1-AE9F-4D32249878BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB72D85-E6EE-4DD1-AE9F-4D32249878BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D435EE32-1DEB-4BBC-B92F-3F9E29897E4D}
+	EndGlobalSection
+EndGlobal
